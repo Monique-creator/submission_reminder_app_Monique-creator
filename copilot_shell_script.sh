@@ -5,7 +5,7 @@
 # *********************************************
 
 # Path to the config file
-CONFIG_FILE="./config/config.env"
+CONFIG_FILE="./submission_reminder_Monique/config/config.env"
 
 #Validate the existance of config file
 
@@ -36,4 +36,5 @@ echo "--------------------------------------------"
 # Rerun the startup script
 echo "Re-running the Submission Reminder App..."
 echo "****************************************"
-bash ./startup.sh
+bash ./submission_reminder_Monique/startup.sh
+
